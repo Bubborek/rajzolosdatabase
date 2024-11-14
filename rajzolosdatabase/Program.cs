@@ -358,7 +358,7 @@ class Program
                 DisplayCurrentSelection();
 
             }
-
+            ShowMenu();
         }
 
     }
